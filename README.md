@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutuja Warkhade</h1>
+
 <p align="center">
-  👩‍💻 A passionate computer engineering student exploring AI, Data Science, and full-stack development.
+  👩‍💻 A passionate Computer Engineering student exploring AI, & Data Science.
 </p>
 
 ---
@@ -33,7 +34,7 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RutujaWarkhade&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RutujaWarkhade&theme=radical&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -45,7 +46,9 @@
 
 ---
 
-### 📬 Connect with me:
+### 📬 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/rutujawarkhade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rutuja-warkhade-b79085288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
