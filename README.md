@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutuja Warkhade</h1>
 
 <p align="center">
-  👩‍💻 A passionate Computer Engineering student exploring AI, & Data Science.
+  👩‍💻 A passionate Computer Engineering student exploring AI & Data Science.
 </p>
 
 ---
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
@@ -29,7 +30,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RutujaWarkhade&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
-
 
 ---
 
